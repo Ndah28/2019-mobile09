@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView rvSuperHero;
     //instansiasi list superhero
     List<SuperHero> listSuperHero = new ArrayList<>();
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
